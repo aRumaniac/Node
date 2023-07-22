@@ -15,8 +15,6 @@
     "dotenv": "^16.0.0",
     "express": "^4.17.3",
     "mongoose": "^6.2.7",
-    "netlify-cli": "^15.9.1",
-    "netlify-lambda": "^2.0.16",
     "nodemailer": "^6.7.3",
     "nodemon": "^2.0.15",
     "react-stripe-checkout": "^2.6.3",
